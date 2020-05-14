@@ -1,0 +1,9 @@
+Title: Organisations engagées
+
+----
+
+Text: Ils portent l’appel auprès de tous... pour que ça bouge !
+
+----
+
+Icon: partenaire.png

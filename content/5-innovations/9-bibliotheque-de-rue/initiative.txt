@@ -1,0 +1,30 @@
+Title: Bibliothèques de rue
+
+----
+
+Cover: bibliotheque-de-rue-atd.png
+
+----
+
+Place: Bourg-la-Reine
+
+----
+
+Text: 
+
+Les bibliothèques de rue consistent à introduire le livre, l’art et d’autres outils (notamment informatiques) d’accès au savoir auprès des enfants de milieux défavorisés et de leurs familles.
+Se déroulant sur leur lieu de vie (sur un trottoir, au pied d’une cage d’escalier, dans des lieux isolés à la campagne…), ces activités répondent à la soif de savoir des enfants, les réconcilient avec la joie d’apprendre et les encouragent à révéler et à partager leurs talents.
+(image: bibliotheque-de-rue-atd.png)
+La bibliothèque de rue a pour ambition de permettre aux enfants de rejoindre les bibliothèques municipales, clubs sportifs ou informatiques, théâtres, écoles… afin qu’ils participent aux activités de tous et s’y épanouissent.
+Par sa régularité et sa durée, elle permet aussi de tisser des relations de confiance entre les enfants, leurs familles et les animateurs, premiers pas vers une participation sociale plus large…
+En France, il existe une cinquantaine de bibliothèques de rue animées par (link: organisations/ATD-Quart-Monde text: ATD Quart Monde). Elles sont toujours à la recherche d’animateurs. Contactez-nous !
+Une de ces bibliothèques de rue se tient chaque samedi après-midi à Bourg La Reine dans les Hauts de Seine.
+
+Pour en savoir plus : <savoir.dans.la.rue@atd-quartmonde.org>
+Si vous êtes en Ile de France, écrivez à <bibliotheque-de-rue.idf@atd-quartmonde.org>
+
+(link: http://php-lamp-128515.nitrousapp.com:3000/v1/content/3-initiatives/6-bibliotheque-de-rue/atd-biblio-tapori_210959_2pages-1-1.pdf text: Présentation bibliothèques de rue)
+
+----
+
+Tags: Culture,ATD quart-monde

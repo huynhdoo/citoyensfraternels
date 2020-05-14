@@ -1,0 +1,41 @@
+Title: Informations départementales
+
+----
+
+Cover: 
+
+----
+
+Text: 
+
+**Informations générales :**
+(link: https://www.federationsolidarite.org/ text: La Fédération des acteurs de la solidarité) (FAS) publie une newsletter hebdomadaire recensant les principales informations du secteur de la solidarité et de l'accompagnement social. (link: https://www.federationsolidarite.org/publications-federation/la-lettre-de-la-federation-menu/la-lettre-de-la-federation-2 text: Retrouvez-les à cette adresse).
+
+L'association (link: http://www.solinum.org/ text: Solinum) recense, au sein d'un outil numérique, (link: https://soliguide.fr/ text: le Soliguide), les services, initiatives et ressources pour les personnes en difficulté.
+
+Le département des Hauts-de-Seine a publié une carte des Services de solidarité territoriale ouverts et publié un certain nombre d'informations sur la situation actuelle sur (link: https://www.hauts-de-seine.fr/coronavirus text: son site internet).
+
+**Aide alimentaire et financière :**
+(link: https://www.secourspopulaire.fr/92/ text: La Fédération du Secours Populaire Français des Hauts-de-Seine) mène une opération d'urgence en partenariat avec (link: http://siao92.fr/service-integre-accueil-orientation/ text: le Service Intégré d'Accueil et d'Orientation (SIAO)) afin de fournir des colis alimentaires  à 3500 personnes hébergées à l'hôtel. Ces colis peuvent également comprendre des produits d'hygiène, de puériculture et du matériel éducatif. (link: https://www.secourspopulaire.fr/92/operation-avec-le-siao-92 text: Pour en savoir plus et les soutenir.)
+En parallèle, le Secours Populaire continue à soutenir les 15000 personnes qu'il accompagne au quotidien. Toutes les informations sur leurs jours et lieux de distribution sont recensées dans (link: https://docs.google.com/spreadsheets/d/11-13y8u_IfN1ZS_55PC-fwZxxmpUeEiB/edit#gid=1782667720 text: notre tableau des activités par commune).
+
+(link: http://hautsdeseine.secours-catholique.org/ text: La Délégation du Secours Catholique des Hauts-de-Seine) réalise des distributions de chèques services au domicile des personnes ne bénéficiant pas du système de distribution précédemment évoqué. Le Secours Catholique national a ainsi débloqué 2,5 millions d'euros. (link: https://www.secours-catholique.org/actualites/le-secours-catholique-debloque-25-millions-deuros-et-lance-un-appel-a-don text: Pour en savoir plus et les soutenir.)
+
+(link: https://entraide92abc.jimdofree.com/ text: L'Entraide Protestante d'Asnières Bois Colombes) délivre également des bons alimentaires.
+
+**Hygiène :**
+(link: http://www.precaritelogement92.fr/ text: L'Observatoire de la précarité et du mal logement dans les Hauts-de-Seine)(OPML92) a mis en ligne (link: http://umap.openstreetmap.fr/fr/map/points-et-toilettes-publiques-dans-les-hauts-de-se_447391#12/48.8697/2.2900 text: une carte présentant la localisation des points d'eau potable et des toilettes publics sur le départements des Hauts-de-Seine.)
+
+**Santé : **
+(link: https://www.secourspopulaire.fr/92/ text: La Fédération du Secours Populaire Français des Hauts-de-Seine) a publié deux documents sur la période de confinement :
+- une liste des acteurs de la santé accessibles : (file: les-reseaux-sante-du-92_.pdf)
+- un document explicatif sur les modalités d'accès à la santé : (file: acces-a-la-sante-coronavirus.pdf)
+
+**Accompagnement social :** : 
+(link: https://www.petitsfreresdespauvres.fr/ text: Les Petits Frères de Pauvres) continuent leur accompagnement auprès de nos aîné.e.s durant cette période particulière. Ils ont mis en place un système de portage de courses et de médicaments à domicile, soutiennent financièrement les personnes en rupture d'aides et ont renforcé leur accompagnement téléphonique et leur ligne d'écoute, Solitud'écoute *(accès gratuitement au 0 800 47 47 88 tous les jours de 15h à 20h)*.
+
+(link: http://hautsdeseine.secours-catholique.org/ text: La délégation du Secours Catholique des Hauts-de-Seine) maintient également son accompagnement fraternel grâce aux outils de communication et à ses bénévoles engagés. Elle a aussi mis en place un soutien scolaire et Français Langue Etrangère (FLE) à distance.
+
+(link: https://assol-mncp.fr/ text: L'Assol), à Nanterre, continue l'accompagnement et la distribution du courrier des personnes domiciliées dans sa structure.
+
+Enfin, (link: https://www.solidarites-nouvelles-logement.org/# text: Solidarités Nouvelles Logement (SNL)) maintien l'accompagnement par téléphone.

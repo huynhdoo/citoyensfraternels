@@ -1,0 +1,25 @@
+Title: Lancement officiel de la campagne
+
+----
+
+Text: 
+
+Venez découvrir la campagne "vivre-ensemble dans le 92" lors d'un apéro-musical !
+(image: invitation-lancement-campagne-front.png)
+(image: invitation-lancement-campagne-back.png)
+
+----
+
+Tags: Evénement
+
+----
+
+Place: Eglise Notre Dame de Pentecôte 92800 Puteaux
+
+----
+
+Time: 2015-11-05
+
+----
+
+Cover: invitation-lancement-campagne-front.png

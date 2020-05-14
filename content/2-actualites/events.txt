@@ -1,0 +1,9 @@
+Title: Actualités
+
+----
+
+Text: Les actualités du collectif
+
+----
+
+Icon: 

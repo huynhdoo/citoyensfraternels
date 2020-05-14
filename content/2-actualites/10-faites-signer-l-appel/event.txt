@@ -1,0 +1,29 @@
+Title: Faites signer l'appel
+
+----
+
+Cover: flyer-campagne.jpg
+
+----
+
+Place: 
+
+----
+
+Time: 2016-02-10
+
+----
+
+Text: 
+
+(image: flyer-campagne.jpg)
+Plus d'excuses, partout autour de vous faites signer l'appel à un mieux vivre ensemble dans le 92 avec :
+1. **(file: flyer-campagne.jpg text: Le flyer de mobilisation)**
+2. **(file: affiche-signatures-1.pdf text: L'affiche) pour vos lieux associatifs, votre hall d'immeuble, votre commune**
+3. **(file: tableau-signatures-appel-1.xlsx text: La feuille d'émargement)  pour faire signer l'appel**
+
+N'oubliez pas objectif **10 000 signatures** fin 2016 !
+
+----
+
+Tags: 

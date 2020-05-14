@@ -1,0 +1,5 @@
+Title: Erreur
+
+----
+
+Text: Oups, cette page n'existe pas ! Mais il y en d'autres bien plus intéressantes :)
